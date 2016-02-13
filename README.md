@@ -6,7 +6,7 @@ This repository serves as a guide to contributing to projects at Weblinx, Inc.
 
 - [Git](git/index.md)
     - [Git Flow](git/git-flow.md)
-        - [Feature Branches](git/git-flow.md#feateure-branches)
+        - [Feature Branches](git/git-flow.md#feature-branches)
         - [Develop Branch](git/git-flow.md#develop-branch)
         - [Release Branches](git/git-flow.md#release-branches)
         - [Hotfix Branches](git/git-flow.md#hotfix-branches)
