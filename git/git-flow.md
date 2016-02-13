@@ -251,7 +251,7 @@ Commit the changelog, and then move on to merge the hotfix in to both master & d
 git commit -m "Updated the changelog for hotfix 1.1.1"
 ```
 
-### Mergin the Branch in to Master (& Develop)
+### Merge the Branch in to Master (& Develop)
 
 Once all bugs have been fixed, the hotfix is ready to be merged in to the master branch. Make sure to use the `--no-ff` flag in order to prevent a fast forward merge, to make sure the network tree is maintained.
 
