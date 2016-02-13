@@ -94,7 +94,7 @@ The name of a new release branch should be `release-` along with a major\* or mi
 git checkout -b release-1.1.0
 ```
 
---\*A major bump should only be made when wide reaching changes have been made. Examples include a new/refreshed design, recoding a site responsively, etc.--
+\*A major bump should only be made when wide reaching changes have been made. Examples include a new/refreshed design, recoding a site responsively, etc.
 
 ### Commiting to the Branch
 
@@ -154,7 +154,7 @@ git merge --no-ff release-1.1.0
 Once the branch has been merged, a new tag will be added to mark the release.
 
 ```
-git tag -a v1.1.
+git tag -a v1.1.0
 ```
 
 This will open Vim, prompting for a title and description for the tag. The title should be "Release v1.1.0", and the message should be the list that was entered in to the CHANGELOG.md.
