@@ -66,7 +66,7 @@ wrote PHP for the main navigation
 ```
 
 ```
-Updated jQuery to v1.12.0; Fixes #47
+Updated jQuery to v1.12.0; Fixed #47
 Added the "jQuery.htmlPrefilter()" function to sanitize inputs
 ```
 

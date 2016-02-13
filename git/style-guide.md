@@ -5,7 +5,7 @@ There are a few guidelines regarding tense and structure of git messages.
 - All messages should be in past tense.
     - Fixed, not fixes
     - Updated, not Updates
-- Titles should be concise and descriptive
+- Titles should be concise and descriptive. If you're fixing an issue, reference it at the end of the title as "; Fixed \#47" (see below for an example)
 - Descriptions should be detailed and organized
 
 ## Good Commits
@@ -21,7 +21,7 @@ Wrote PHP for the main navigation
 ```
 
 ```
-Updated jQuery to v1.12.0; Fixes #47
+Updated jQuery to v1.12.0; Fixed #47
 Added the "jQuery.htmlPrefilter()" function to sanitize inputs
 ```
 
