@@ -60,7 +60,7 @@ Fixed a typo in _header.scss
 ```
 
 ```
-PHP for the main navigation
+wrote PHP for the main navigation
 - Set up a call to wp_nav_menu
 - Created a new walker navWalker() to change the sub-menu class to -sub-list
 ```
