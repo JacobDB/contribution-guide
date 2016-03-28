@@ -60,7 +60,7 @@ The develop branch is where any bug fixes or adjustments can be made to features
 The develop branch only needs created once, typically at the start of a project. To do so, simply use:
 
 ```
-git branch -b develop master
+git checkout -b develop master
 ```
 
 ### Committing to Develop
