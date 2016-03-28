@@ -18,7 +18,9 @@ Feature branches are exactly what they sound like: branches that are created for
 
 When starting work on a new feature, create a new branch off of develop.
 
-`git checkout -b slideshow develop`
+```
+git checkout -b slideshow develop
+```
 
 ### Commiting to the Branch
 
